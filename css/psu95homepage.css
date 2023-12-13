@@ -1,0 +1,474 @@
+/* screen - psu95homepage */
+
+.psu95homepage {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2860px;
+  width: 1440px;
+}
+
+.psu95homepage .overlap-group {
+  height: 43px;
+  position: relative;
+  width: 291px;
+}
+
+.psu95homepage .place {
+  height: 43px;
+  left: 141px;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.psu95homepage .co-e_-header {
+  align-items: flex-start;
+  background-image: url(../img/twu-image.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 423px;
+  min-width: 1440px;
+}
+
+.psu95homepage .overlap-group3 {
+  align-items: flex-start;
+  background-color: #00000099;
+  display: flex;
+  height: 146px;
+  min-width: 1440px;
+  padding: 26px 59px;
+}
+
+.psu95homepage .college-of-engineering {
+  height: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 1321px;
+}
+
+.psu95homepage .dean_-welcome {
+  align-items: flex-start;
+  align-self: flex-start;
+  border-radius: 15px;
+  display: flex;
+  gap: 57px;
+  margin-left: 97px;
+  margin-top: 76px;
+  min-width: 274px;
+}
+
+.psu95homepage .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--merlot);
+  border-radius: 15px;
+  display: flex;
+  height: 329px;
+  min-width: 274px;
+  padding: 13.1px 12.9px;
+}
+
+.psu95homepage .dean {
+  height: 302px;
+  object-fit: cover;
+  width: 247px;
+}
+
+.psu95homepage .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-top: -24px;
+  min-height: 352px;
+  width: 915px;
+}
+
+.psu95homepage .dw_-title {
+  height: 93px;
+}
+
+.psu95homepage .dw_-message {
+  min-height: 256px;
+}
+
+.psu95homepage .nav-bar {
+  align-items: flex-start;
+  background-color: var(--merlot);
+  display: flex;
+  height: 229px;
+  justify-content: flex-end;
+  margin-top: 76px;
+  min-width: 1440px;
+  padding: 35.9px 83.0px;
+}
+
+.psu95homepage .flex-col-1 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-bottom: 4.4px;
+  min-height: 141px;
+  width: 229px;
+}
+
+.psu95homepage .bookw {
+  height: 88px;
+  margin-left: 0;
+  width: 118px;
+}
+
+.psu95homepage .programs {
+  height: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 229px;
+}
+
+.psu95homepage .flex-col-2 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: 122px;
+  margin-top: 5.0px;
+  min-height: 132px;
+  width: 229px;
+}
+
+.psu95homepage .notesw {
+  height: 88px;
+  margin-right: 0.52px;
+  width: 118px;
+}
+
+.psu95homepage .apply-now {
+  height: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 229px;
+}
+
+.psu95homepage .flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-left: 122px;
+  min-height: 147px;
+  width: 229px;
+}
+
+.psu95homepage .microchipw {
+  height: 88px;
+  margin-left: 7.54px;
+  width: 118px;
+}
+
+.psu95homepage .place-1 {
+  height: 35px;
+  text-align: center;
+  white-space: nowrap;
+  width: 229px;
+}
+
+.psu95homepage .flex-col-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-left: 109px;
+  margin-top: 0.13px;
+  min-height: 147px;
+  width: 229px;
+}
+
+.psu95homepage .peoplew {
+  height: 103px;
+  margin-right: 12.94px;
+  width: 140px;
+}
+
+.psu95homepage .faculty {
+  height: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 229px;
+}
+
+.psu95homepage .twu_-experience {
+  align-items: flex-start;
+  display: flex;
+  height: 366px;
+  margin-top: 76px;
+  min-width: 1246px;
+}
+
+.psu95homepage .overlap-group1 {
+  height: 367px;
+  margin-top: -1px;
+  position: relative;
+  width: 1246px;
+}
+
+.psu95homepage .overlap-group-1 {
+  height: 367px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1246px;
+}
+
+.psu95homepage .border {
+  background-color: var(--merlot);
+  border-radius: 15px;
+  height: 366px;
+  left: 871px;
+  position: absolute;
+  top: 1px;
+  width: 375px;
+}
+
+.psu95homepage .te_-title {
+  height: 93px;
+  top: 0;
+  width: 915px;
+}
+
+.psu95homepage .twu_grad_pic {
+  height: 328px;
+  left: 888px;
+  position: absolute;
+  top: 20px;
+  width: 340px;
+}
+
+.psu95homepage .te_-message {
+  top: 98px;
+  width: 826px;
+}
+
+.psu95homepage .span1 {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+}
+
+.psu95homepage .statistics {
+  align-items: center;
+  background-color: #dddddd;
+  border-radius: 25px;
+  display: flex;
+  height: 240px;
+  margin-top: 76px;
+  min-width: 1246px;
+  padding: 34px 46px;
+}
+
+.psu95homepage .flex-col-5 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  min-height: 168px;
+  width: 247px;
+}
+
+.psu95homepage .percent {
+  margin-right: 1.0px;
+}
+
+.psu95homepage .of-students-love-this-college {
+  height: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 247px;
+}
+
+.psu95homepage .flex-col-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  margin-bottom: 3.0px;
+  margin-left: 183px;
+  min-height: 161px;
+  width: 247px;
+}
+
+.psu95homepage .of-graduates-actually-got-jobs {
+  height: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 247px;
+}
+
+.psu95homepage .flex-col-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  margin-bottom: 3.0px;
+  margin-left: 221px;
+  min-height: 161px;
+  width: 247px;
+}
+
+.psu95homepage .percent-2 {
+  margin-left: 19.0px;
+}
+
+.psu95homepage .of-students-got-tons-of-homework {
+  height: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 247px;
+}
+
+.psu95homepage .accreditation {
+  align-items: flex-start;
+  display: flex;
+  gap: 85px;
+  height: 321px;
+  margin-left: 0.27px;
+  margin-top: 76px;
+  min-width: 1246px;
+}
+
+.psu95homepage .accreditation-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: -1px;
+  min-height: 321px;
+  width: 820px;
+}
+
+.psu95homepage .accreditation-1 {
+  height: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 442px;
+}
+
+.psu95homepage .accreditation-is-pro {
+  height: 247px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 820px;
+}
+
+.psu95homepage .flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 321px;
+  width: 341px;
+}
+
+.psu95homepage .eac {
+  height: 100px;
+  object-fit: cover;
+  width: 341px;
+}
+
+.psu95homepage .cac {
+  height: 100px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 341px;
+}
+
+.psu95homepage .etac {
+  height: 100px;
+  margin-top: 11px;
+  object-fit: cover;
+  width: 341px;
+}
+
+.psu95homepage .bottom-bar {
+  align-items: center;
+  background-color: var(--merlot);
+  display: flex;
+  height: 209px;
+  margin-top: 144px;
+  min-width: 1440px;
+  padding: 26px 97px;
+}
+
+.psu95homepage .flex-col-9 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 443px;
+}
+
+.psu95homepage .college-of-engineering-1 {
+  height: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 443px;
+}
+
+.psu95homepage .address {
+  height: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 272px;
+}
+
+.psu95homepage .flex-col-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-bottom: 10.0px;
+  margin-left: 269px;
+  min-height: 85px;
+  width: 472px;
+}
+
+.psu95homepage .dw_ {
+  letter-spacing: 0;
+  line-height: normal;
+  width: 915px;
+}
+
+.psu95homepage .percent-3 {
+  height: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.psu95homepage .place-2 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.psu95homepage .te_ {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}

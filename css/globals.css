@@ -1,0 +1,816 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400italic,400,600,300,500,700");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/64c9096de8134965c3a2ebf2.64c9096de8134965c3a2ebf5.udromT2.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.twu_-nav-bar {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 219px;
+  width: 1440px;
+}
+
+.twu_top_bar-container {
+  height: 44px;
+  margin-top: -1px;
+  position: relative;
+  width: 1440px;
+}
+
+.twu_-top_-bar {
+  background-color: var(--black-haze);
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1440px;
+}
+
+.twu_-top_-bar-1 {
+  height: 43px;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1321px;
+}
+
+.twu_logo {
+  height: 88px;
+  margin-left: 15px;
+  margin-top: 17px;
+  width: 600px;
+}
+
+.navbar {
+  align-items: flex-start;
+  background-color: var(--merlot);
+  display: flex;
+  height: 53px;
+  margin-top: 18px;
+  min-width: 1440px;
+  padding: 4px 59px;
+}
+
+.navbar-link-about {
+  height: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 150px;
+}
+
+.navbar-link {
+  height: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  width: 150px;
+}
+
+.admissions {
+  height: 43px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.navbar-link-contact-us {
+  height: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 29px;
+  width: 150px;
+}
+
+.bachelor-of-science {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 3px;
+  white-space: nowrap;
+}
+
+.degree-requirements {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-left: 0;
+  margin-top: 32px;
+  min-height: 157px;
+  width: 1246px;
+}
+
+.overlap-group17 {
+  height: 61px;
+  margin-top: -1px;
+  position: relative;
+  width: 1246px;
+}
+
+.degree-requirements-1 {
+  height: 61px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1246px;
+}
+
+.line-2 {
+  height: 8px;
+  left: 425px;
+  position: absolute;
+  top: 30px;
+  width: 821px;
+}
+
+.total-semester-credi {
+  color: transparent;
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 1244px;
+}
+
+.span4 {
+  color: var(--merlot);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+}
+
+.texas-core-curr {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 7.0px;
+  margin-top: 51px;
+  min-height: 773px;
+  width: 1249px;
+}
+
+.texas-core-curriculum {
+  height: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 1246px;
+}
+
+.class-tile {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 47px;
+  margin-top: 1px;
+  min-width: 1248px;
+  padding: 4.8px 19.1px;
+}
+
+.overlap-group13 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.class-tile-1 {
+  background-color: var(--alto-2);
+}
+
+.class-tile-2 {
+  background-color: var(--alto);
+}
+
+.hist-container {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.hist-1013 {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.history-of-the-unite {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.hist-1023 {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.introduction-to-biomedical-engineering {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.overlap-group7 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.introduction-to-biomedical-engineering-1 {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.life-physical-science-credit {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.soci-container {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.social-behavioral-science-credit {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.overlap-group4 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.class-tile-3 {
+  background-color: var(--alto);
+  margin-left: 1px;
+}
+
+.class-tile-4 {
+  background-color: var(--alto-2);
+  margin-left: 1px;
+}
+
+.class-tile-5 {
+  background-color: var(--merlot-2);
+  gap: 887px;
+  margin-left: 1px;
+}
+
+.total-sc-hs {
+  height: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 132px;
+}
+
+.deg-curr {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9.0px;
+  margin-top: 54px;
+  min-height: 819px;
+  width: 1249px;
+}
+
+.name {
+  height: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 1246px;
+}
+
+.overlap-group14 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.overlap-group5-1 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.eng-1023-1 {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.classtile-container {
+  height: 142px;
+  position: relative;
+  width: 1249px;
+}
+
+.class-tile-6 {
+  background-color: var(--alto);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.hist-1013-1 {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.class-tile-7 {
+  background-color: var(--alto-2);
+  left: 1px;
+  position: absolute;
+  top: 47px;
+}
+
+.overlap-group11 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.math-3073 {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.matrix-methods {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.class-tile-8 {
+  background-color: var(--alto);
+  left: 1px;
+  position: absolute;
+  top: 94px;
+}
+
+.overlap-group13-1 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.introduction-to-engineering {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.class-tile-9 {
+  background-color: var(--alto-2);
+  margin-top: 1px;
+}
+
+.overlap-group6 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.discover-biomedical-engineering {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.overlap-group1-1 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.software-for-biomedical-engineers {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.overlap-group7-1 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.biomedical-circuits-data-acquisition {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.overlap-group2-1 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.biomedical-instrumentation-i {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.overlap-group8 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.engineering-measurements {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.overlap-group3-1 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.biomedical-signal-analysis {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.overlap-group9 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.biomaterials {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.overlap-group4-1 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.biomedical-transport-phenomena {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.classtile-container-1 {
+  height: 142px;
+  position: relative;
+  width: 1248px;
+}
+
+.class-tile-10 {
+  background-color: var(--alto-2);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group10 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.class-tile-11 {
+  background-color: var(--alto);
+  left: 0;
+  position: absolute;
+  top: 47px;
+}
+
+.overlap-group12 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.class-tile-12 {
+  background-color: var(--merlot-2);
+  gap: 887px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+}
+
+.address-1 {
+  height: 77px;
+  width: 272px;
+}
+
+.flex-col-item {
+  height: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: right;
+  width: 472px;
+}
+
+._icon-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-bottom: 7.67px;
+  margin-left: 25px;
+  min-height: 84px;
+  width: 33px;
+}
+
+.email_icon {
+  height: 27px;
+  width: 33px;
+}
+
+.phone_icon {
+  height: 33px;
+  width: 33px;
+}
+
+.address-2 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.biolchem-3 {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.bmen {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.class-tile-13 {
+  align-items: flex-start;
+  display: flex;
+  height: 47px;
+  min-width: 1248px;
+  padding: 4.8px 19.1px;
+}
+
+.eng {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.eng-1013-3 {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.english-composition {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.hist-container-3 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.history-of-the-unite-3 {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.life-physical-science-credit-3 {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.pols {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.senior-design {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.soci-container-5 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.social-behavioral-science-credit-5 {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.socipsyc-5 {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.surname-2 {
+  height: 35px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 887px;
+}
+
+.degree-programs {
+  height: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 1242px;
+}

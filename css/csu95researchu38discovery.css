@@ -1,0 +1,221 @@
+/* screen - csu95researchu38discovery */
+
+.csu95researchu38discovery {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1840px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.csu95researchu38discovery .overlap-group2 {
+  height: 43px;
+  position: relative;
+  width: 291px;
+}
+
+.csu95researchu38discovery .place {
+  height: 43px;
+  left: 141px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.csu95researchu38discovery .heading {
+  align-items: flex-start;
+  background-color: var(--black-2);
+  display: flex;
+  height: 152px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  min-width: 1441px;
+  padding: 29px 98px;
+}
+
+.csu95researchu38discovery .mission_-statement {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-right: 1.0px;
+  margin-top: 76px;
+  min-height: 399px;
+  width: 1229px;
+}
+
+.csu95researchu38discovery .our-mission {
+  color: var(--merlot);
+  font-family: var(--font-family-fira_sans);
+  font-size: 60px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 72px;
+  width: 1229px;
+}
+
+.csu95researchu38discovery .te_-message {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  min-height: 310px;
+  width: 1218px;
+}
+
+.csu95researchu38discovery .featured_-discoveries {
+  align-items: flex-start;
+  background-color: var(--merlot-2);
+  display: flex;
+  flex-direction: column;
+  gap: 41px;
+  margin-top: 56px;
+  min-height: 729px;
+  padding: 39px 74px;
+  width: 1440px;
+}
+
+.csu95researchu38discovery .featured-discoveries {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 26px;
+  min-height: 72px;
+  width: 1119px;
+}
+
+.csu95researchu38discovery .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 522px;
+  min-width: 1266px;
+}
+
+.csu95researchu38discovery .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  min-height: 517px;
+  width: 358px;
+}
+
+.csu95researchu38discovery .rd_1 {
+  height: 373px;
+  margin-right: 6.0px;
+  object-fit: cover;
+  width: 352px;
+}
+
+.csu95researchu38discovery .rd_-article1 {
+  font-weight: 600;
+  margin-left: 6.0px;
+  min-height: 105px;
+  width: 352px;
+}
+
+.csu95researchu38discovery .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  margin-left: 81px;
+  min-height: 522px;
+  width: 370px;
+}
+
+.csu95researchu38discovery .rd_2 {
+  align-self: flex-end;
+  height: 373px;
+  object-fit: cover;
+  width: 352px;
+}
+
+.csu95researchu38discovery .rd_-article2 {
+  font-weight: 600;
+  min-height: 115px;
+  width: 351px;
+}
+
+.csu95researchu38discovery .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  margin-left: 105px;
+  min-height: 513px;
+  width: 352px;
+}
+
+.csu95researchu38discovery .rd_3 {
+  height: 373px;
+  width: 352px;
+}
+
+.csu95researchu38discovery .rd_-article3 {
+  font-weight: 700;
+  min-height: 106px;
+  width: 352px;
+}
+
+.csu95researchu38discovery .bottom-bar {
+  align-items: center;
+  background-color: var(--merlot);
+  display: flex;
+  height: 209px;
+  min-width: 1440px;
+  padding: 26px 97px;
+}
+
+.csu95researchu38discovery .flex-col-3 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 443px;
+}
+
+.csu95researchu38discovery .college-of-engineering {
+  height: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 443px;
+}
+
+.csu95researchu38discovery .address {
+  height: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 272px;
+}
+
+.csu95researchu38discovery .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-bottom: 10.0px;
+  margin-left: 269px;
+  min-height: 85px;
+  width: 472px;
+}
+
+.csu95researchu38discovery .rd_ {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+}

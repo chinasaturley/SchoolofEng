@@ -1,0 +1,172 @@
+/* screen - csu95facultyu38staff */
+
+.csu95facultyu38staff {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2000px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.csu95facultyu38staff .overlap-group-1 {
+  height: 43px;
+  position: relative;
+  width: 291px;
+}
+
+.csu95facultyu38staff .place {
+  height: 43px;
+  left: 141px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.csu95facultyu38staff .heading {
+  align-items: flex-start;
+  background-color: var(--black-2);
+  display: flex;
+  height: 152px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  min-width: 1441px;
+  padding: 29px 98px;
+}
+
+.csu95facultyu38staff .faculty1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 69px;
+  margin-left: 12.0px;
+  margin-top: 88px;
+  min-width: 1240px;
+}
+
+.csu95facultyu38staff .overlap-group2 {
+  min-width: 256px;
+  padding: 13.6px 12.0px;
+}
+
+.csu95facultyu38staff .faculty-1 {
+  width: 231px;
+}
+
+.csu95facultyu38staff .dw_message-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 1px;
+  min-height: 339px;
+  width: 915px;
+}
+
+.csu95facultyu38staff .dw_-message {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 79px;
+  width: 915px;
+}
+
+.csu95facultyu38staff .span1 {
+  color: var(--merlot);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+
+.csu95facultyu38staff .dw_-message-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 228px;
+  width: 915px;
+}
+
+.csu95facultyu38staff .faculty2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 69px;
+  margin-left: 12.0px;
+  margin-top: 87px;
+  min-width: 1242px;
+}
+
+.csu95facultyu38staff .overlap-group {
+  min-width: 258px;
+  padding: 13.6px 12.1px;
+}
+
+.csu95facultyu38staff .faculty {
+  width: 233px;
+}
+
+.csu95facultyu38staff .faculty3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 68px;
+  margin-left: 11.0px;
+  margin-top: 107px;
+  min-width: 1241px;
+}
+
+.csu95facultyu38staff .bottom-bar {
+  align-items: center;
+  background-color: var(--merlot);
+  display: flex;
+  height: 209px;
+  margin-top: 109px;
+  min-width: 1440px;
+  padding: 26px 97px;
+}
+
+.csu95facultyu38staff .flex-col {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 443px;
+}
+
+.csu95facultyu38staff .college-of-engineering {
+  height: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 443px;
+}
+
+.csu95facultyu38staff .address {
+  height: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 272px;
+}
+
+.csu95facultyu38staff .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-bottom: 10.0px;
+  margin-left: 269px;
+  min-height: 85px;
+  width: 472px;
+}
+
+.csu95facultyu38staff .faculty-2 {
+  height: 315px;
+  object-fit: cover;
+}
+
+.csu95facultyu38staff .overlap {
+  align-items: flex-start;
+  background-color: var(--merlot);
+  border-radius: 15px;
+  display: flex;
+  height: 343px;
+}

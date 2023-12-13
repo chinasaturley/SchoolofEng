@@ -1,0 +1,126 @@
+/* screen - psu95bmu95degree */
+
+.psu95bmu95degree {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2767px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.psu95bmu95degree .overlap-group {
+  height: 43px;
+  position: relative;
+  width: 291px;
+}
+
+.psu95bmu95degree .place {
+  height: 43px;
+  left: 141px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.psu95bmu95degree .heading {
+  align-items: flex-start;
+  background-color: var(--black-2);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-left: 1.0px;
+  min-height: 189px;
+  padding: 33.4px 98px;
+  width: 1441px;
+}
+
+.psu95bmu95degree .title {
+  align-self: center;
+  height: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  white-space: nowrap;
+  width: 1242px;
+}
+
+.psu95bmu95degree .biomedical-engineeri {
+  height: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.0px;
+  margin-top: 31px;
+  width: 1244px;
+}
+
+.psu95bmu95degree .address {
+  height: 35px;
+  text-align: right;
+  width: 186px;
+}
+
+.psu95bmu95degree .overlap-group5 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.psu95bmu95degree .overlap-group1 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.psu95bmu95degree .overlap-group2 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.psu95bmu95degree .overlap-group3 {
+  height: 35px;
+  position: relative;
+  width: 1019px;
+}
+
+.psu95bmu95degree .bottom-bar {
+  align-items: center;
+  background-color: var(--merlot);
+  display: flex;
+  height: 209px;
+  margin-top: 101px;
+  min-width: 1440px;
+  padding: 26px 97px;
+}
+
+.psu95bmu95degree .flex-col {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 443px;
+}
+
+.psu95bmu95degree .college-of-engineering {
+  height: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 443px;
+}
+
+.psu95bmu95degree .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-bottom: 10.0px;
+  margin-left: 269px;
+  min-height: 85px;
+  width: 472px;
+}

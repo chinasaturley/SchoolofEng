@@ -1,0 +1,203 @@
+:root { 
+  --alto: #d9d9d94c;
+  --alto-2: #d9d9d999;
+  --black: #000000;
+  --black-2: #00000096;
+  --black-haze: #f6f6f6;
+  --merlot: #821526;
+  --merlot-2: #821526b2;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 25px;
+  --font-size-xxl: 28px;
+  --font-size-xxxl: 30px;
+  --font-size-xxxxl: 35px;
+ 
+  --font-family-fira_sans: "Fira Sans", Helvetica;
+}
+.firasans-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.firasans-bold-merlot-20px {
+  color: var(--merlot);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.firasans-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firasans-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firasans-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.firasans-semi-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.firasans-light-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.firasans-semi-bold-merlot-30px {
+  color: var(--merlot);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.firasans-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firasans-semi-bold-white-70px {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.firasans-light-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.firasans-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firasans-semi-bold-merlot-50px {
+  color: var(--merlot);
+  font-family: var(--font-family-fira_sans);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.firasans-medium-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.firasans-semi-bold-merlot-35px {
+  color: var(--merlot);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.firasans-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firasans-semi-bold-merlot-40px {
+  color: var(--merlot);
+  font-family: var(--font-family-fira_sans);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.firasans-semi-bold-white-60px {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.firasans-medium-merlot-35px {
+  color: var(--merlot);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.firasans-normal-black-24px-2 {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.firasans-medium-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.firasans-semi-bold-merlot-80px {
+  color: var(--merlot);
+  font-family: var(--font-family-fira_sans);
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.firasans-light-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 300;
+}

@@ -1,0 +1,353 @@
+/* screen - psu95degreeprograms */
+
+.psu95degreeprograms {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2747px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.psu95degreeprograms .overlap-group-1 {
+  height: 43px;
+  position: relative;
+  width: 291px;
+}
+
+.psu95degreeprograms .place {
+  height: 43px;
+  left: 141px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.psu95degreeprograms .heading {
+  align-items: flex-start;
+  background-color: var(--black-2);
+  display: flex;
+  height: 152px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  min-width: 1441px;
+  padding: 29px 98px;
+}
+
+.psu95degreeprograms .title {
+  height: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 1242px;
+}
+
+.psu95degreeprograms .overlap-group5 {
+  height: 491px;
+  margin-top: 48px;
+  position: relative;
+  width: 1246px;
+}
+
+.psu95degreeprograms .bs-programs {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 2px;
+  min-height: 401px;
+  position: absolute;
+  top: 90px;
+  width: 1242px;
+}
+
+.psu95degreeprograms .bachelor-of-science-programs {
+  height: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 1242px;
+}
+
+.psu95degreeprograms .degree-tile {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 57px;
+  margin-top: 1px;
+  min-width: 1242px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .biomedical-engineering-bs {
+  height: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 1014px;
+}
+
+.psu95degreeprograms .learn-more {
+  cursor: pointer;
+  height: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: right;
+  text-decoration: underline;
+  width: 185px;
+}
+
+.psu95degreeprograms .degree-tile-1 {
+  background-color: var(--white);
+}
+
+.psu95degreeprograms .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--alto-2);
+  display: flex;
+  height: 57px;
+  min-width: 1242px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .degree-tile-2 {
+  background-color: var(--alto);
+  height: 57px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .learn-more-1 {
+  height: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: right;
+  text-decoration: underline;
+  width: 185px;
+}
+
+.psu95degreeprograms .degree-tile-3 {
+  background-color: var(--alto-2);
+  height: 57px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .degree-tile-4 {
+  background-color: var(--alto-2);
+  height: 57px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .undergraduate-title {
+  height: 93px;
+  left: 0;
+  min-width: 1246px;
+  position: absolute;
+  top: 0;
+}
+
+.psu95degreeprograms .overlap-group {
+  height: 93px;
+  margin-top: -1px;
+  position: relative;
+  width: 1250px;
+}
+
+.psu95degreeprograms .graduate {
+  height: 93px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 919px;
+}
+
+.psu95degreeprograms .line-1 {
+  height: 8px;
+  left: 377px;
+  position: absolute;
+  top: 49px;
+  width: 873px;
+}
+
+.psu95degreeprograms .undergraduate-minors {
+  flex-direction: column;
+  margin-top: 30px;
+  min-height: 401px;
+  width: 1242px;
+}
+
+.psu95degreeprograms .undergraduate-minors-1 {
+  height: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 1242px;
+}
+
+.psu95degreeprograms .overlap-group-3 {
+  align-items: flex-start;
+  background-color: var(--alto-2);
+  display: flex;
+  height: 57px;
+  min-width: 1242px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .degree-tile-5 {
+  background-color: var(--alto-2);
+  height: 57px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .degree-tile-6 {
+  background-color: var(--alto-2);
+  height: 57px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .graduate-title {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 73px;
+  min-width: 1246px;
+}
+
+.psu95degreeprograms .line-1-1 {
+  height: 8px;
+  left: 234px;
+  position: absolute;
+  top: 48px;
+  width: 1016px;
+}
+
+.psu95degreeprograms .masters-programs {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 572px;
+  width: 1242px;
+}
+
+.psu95degreeprograms .masters-of-science-programs {
+  height: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 1242px;
+}
+
+.psu95degreeprograms .overlap-group-4 {
+  align-items: flex-start;
+  background-color: var(--alto-2);
+  display: flex;
+  height: 57px;
+  min-width: 1242px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .degree-tile-7 {
+  background-color: var(--alto-2);
+  height: 57px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .degree-tile-8 {
+  background-color: var(--alto-2);
+  height: 57px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .degree-tile-9 {
+  background-color: var(--alto-2);
+  height: 57px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .phd-programs {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 34px;
+  min-height: 287px;
+  width: 1242px;
+}
+
+.psu95degreeprograms .ph-d-programs {
+  height: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 1242px;
+}
+
+.psu95degreeprograms .overlap-group-5 {
+  align-items: flex-start;
+  background-color: var(--alto-2);
+  display: flex;
+  height: 57px;
+  min-width: 1242px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .degree-tile-10 {
+  background-color: var(--alto-2);
+  height: 57px;
+  padding: 6px 18.8px;
+}
+
+.psu95degreeprograms .bottom-bar {
+  align-items: center;
+  background-color: var(--merlot);
+  display: flex;
+  height: 209px;
+  margin-top: 138px;
+  min-width: 1440px;
+  padding: 26px 97px;
+}
+
+.psu95degreeprograms .flex-col {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 443px;
+}
+
+.psu95degreeprograms .college-of-engineering {
+  height: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 443px;
+}
+
+.psu95degreeprograms .address {
+  height: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 272px;
+}
+
+.psu95degreeprograms .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-bottom: 10.0px;
+  margin-left: 269px;
+  min-height: 85px;
+  width: 472px;
+}
+
+.psu95degreeprograms .degree-tile-11 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1242px;
+}
+
+.psu95degreeprograms .undergraduate {
+  align-items: flex-start;
+  display: flex;
+}
